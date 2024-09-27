@@ -1,0 +1,7 @@
+Ronflex 1 0 1 2
+Dracofeu 1 0 1 2
+TeamRocket
+Florizarre 1 0 1 2
+Tortank 2 0 1 2
+Dracofeu 2
+Florizarre 1 0 1 2
