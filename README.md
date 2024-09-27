@@ -18,6 +18,11 @@ g++ -o pokemon_attack attack.cpp -std=c++11
 # Run the program
 ./pokemon_attack
 ```
+For the Python Version it should suffice to just compile the main file using Python3 and then execute it.
+```bash
+# Compile the program
+python3 main.py
+```
 
 # Extending the Project:
 - **Adding New Attacks**: To add a new attack, create a new class derived from Attack and override the specialEffect method if the attack has any special effects beyond causing damage.
